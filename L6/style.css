@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.bsignup{
+    font-size: 14px; 
+    margin-top: 30px; 
+    margin-left: 30px; 
+    width: 115px; 
+    height: 49px;
+    background-color: #5D50C6;
+    border-radius: 100px;
+    border: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: #eeeeee;
+}
+
+.startb{
+    background-color: #5D50C6;
+    border-radius: 100px;
+    width: 141px;
+    height: 49px;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    color: #eeeeee;
+}
+.watchb{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 16px;
+    width: 181px;
+    height: 56px;
+    border-radius: 100px;
+    border: 1px solid #eeeeee;
+    background-color: #eeeeee;
+}
+
+.send{
+    width: 64px;
+    height: 64px;
+    display: table-cell; 
+    vertical-align: middle; 
+    position: absolute; 
+    transform: translate(100%, 90%); 
+    background-color: #F85E9F; 
+    border-radius: 100px;
+    border: none;
+    text-align: center;
+}
